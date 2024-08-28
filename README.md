@@ -1,2 +1,1 @@
-- [Service Level Agreements (SLAs)](https://github.com/garrynwong/Service-Level-Agreements-SLAs-)
-- [Ticket Lifecycle & Resolution](https://github.com/garrynwong/ticket-lifecycle-and-resolution)
+- [Service Level Agreements (SLAs) & Ticket Lifecycle & Resolution](https://github.com/garrynwong/ticket-lifecycle-and-resolution)
